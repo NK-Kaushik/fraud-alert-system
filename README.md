@@ -136,7 +136,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 1 — Project & Git Setup
+##  Step 1 — Project & Git Setup
 
 ### What I did
 
@@ -157,7 +157,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 2 — Virtual Environment & Dependency Isolation
+##  Step 2 — Virtual Environment & Dependency Isolation
 
 ### What I did
 
@@ -177,7 +177,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 3 — Dataset Ingestion & Problem Framing
+##  Step 3 — Dataset Ingestion & Problem Framing
 
 ### What I did
 
@@ -198,7 +198,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 4 — Feature Preparation & Train/Test Split
+##  Step 4 — Feature Preparation & Train/Test Split
 
 ### What I did
 
@@ -219,7 +219,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 5 — Fraud Risk Model Training (PyTorch)
+##  Step 5 — Fraud Risk Model Training (PyTorch)
 
 ### What I did
 
@@ -240,7 +240,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 6 — Alert Triage & Prioritization Logic
+##  Step 6 — Alert Triage & Prioritization Logic
 
 ### What I did
 
@@ -260,7 +260,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 7 — Explanation Layer (LLM-Ready Design)
+##  Step 7 — Explanation Layer (LLM-Ready Design)
 
 ### What I did
 
@@ -281,7 +281,7 @@ This section explains the **engineering and ML decisions step by step**.
 
 ---
 
-## ✅ Step 8 — REST API Integration (FastAPI)
+##  Step 8 — REST API Integration (FastAPI)
 
 ### What I did
 
